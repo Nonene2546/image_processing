@@ -1,2 +1,9 @@
 *.tar.gz
-asset
+asset*
+data*
+ray_re*
+cp*
+sbatch*
+outputs
+img-code
+runs
